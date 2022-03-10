@@ -1,0 +1,35 @@
+Curso Visão geral do Pensamento Computacional
+Instrutora: Juliana Mascarenhas (Digital Innovation One)
+
+Anotações aula 1 - Visão geral
+
+Pensamento computacional: Refere-se ap processo de pensamento envolvido na expressão de soluções em passos computacionais ou algoritimos que podem ser implementados no computador. (Aho, 2011; Lee, 2016)
+
+De uma forma geral Pensamento computacional é uma habilidade geral de formulação e resolução de problemas.
+
+Pensamento sistemático e eficiente que precisa ser aplicado de maneira que uma máquina possa entender. É uma habilidade generalista.
+
+É baseado em 4 pilares:
+- Decomposição
+- Reconhecimento de padrões
+- Abstração - é conseguir pegar algo particular e generalizar
+- Design de algoritmos
+
+Pocesso Contínuo
+- Definir uma solução
+- Testar a solução
+- Aperfeiçoamento da solução encontrada
+Visa otimizar recursos
+
+Habilidades humanas
+- Abstração: Resolução de problemas
+- Automatização: Expressão de solução
+
+Recursos computacionais
+- Análise: Execução da solução e avaliação (refinamento)
+
+Competências
+- Pensamento sistemático;
+- Colaboração dentro da equipe
+- Criatividade e disign
+- Facilitador

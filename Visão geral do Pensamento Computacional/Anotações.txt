@@ -1,7 +1,7 @@
-Curso Visão geral do Pensamento Computacional
+Curso Visão Geral do Pensamento Computacional
 Instrutora: Juliana Mascarenhas (Digital Innovation One)
 
-Anotações aula 1 - Visão geral
+Aula 1 | Etapa 1 - Introdução
 
 Pensamento computacional: Refere-se ap processo de pensamento envolvido na expressão de soluções em passos computacionais ou algoritimos que podem ser implementados no computador. (Aho, 2011; Lee, 2016)
 
@@ -10,10 +10,10 @@ De uma forma geral Pensamento computacional é uma habilidade geral de formulaç
 Pensamento sistemático e eficiente que precisa ser aplicado de maneira que uma máquina possa entender. É uma habilidade generalista.
 
 É baseado em 4 pilares:
-- Decomposição
-- Reconhecimento de padrões
-- Abstração - é conseguir pegar algo particular e generalizar
-- Design de algoritmos
+1 - Decomposição
+2 - Reconhecimento de padrões
+3 - Abstração - é conseguir pegar algo particular e generalizar
+4 - Design de algoritmos
 
 Pocesso Contínuo
 - Definir uma solução
@@ -31,5 +31,121 @@ Recursos computacionais
 Competências
 - Pensamento sistemático;
 - Colaboração dentro da equipe
-- Criatividade e disign
+- Criatividade e design
 - Facilitador
+
+Aula 1 | Etapa 2: Habilidades complementares
+- Raciocínio lógico: é uma forma de pensamento estruturado, ou raciocinio, que permite encontrar a conclusão ou determinar a resolução de um problema.
+- Aperfeiçoamento: A partir de uma solução determinar pontos de melhora e refinamento.
+
+Ato de aperfeiçoar
+- Encontrar solução eficiente
+- Otimizar processos
+- Simplificar linhas de códigos
+- Funções bem definidas
+
+Raciocínio lógico é classificado em:
+- Indução: Empirismo, experimentos (Inferencia Sintética) - Fenômeno observado --> indução --> leis e teorias
+- Dedução: Previsões e explicações baseados numa teoria (Inferencia Analítica) - leis e teorias --> dedução --> Previsões e explicações
+- Addução: Utiliza a conclusão para determinar a premissa (Inferencia Sintética) - Conclusão --> Premissa
+	exemplo a grama está molhada, logo deve ter chovido.
+
+Aula 2 - Pilares - Pensamento Computacional
+Aula 2 | Etapa 1: Decomposição
+1º Pilar - Decomposição
+"If you can't solve a problem, then there is an easier problem that you can solve: find it" - George Polya
+Quebrar o problema em pequenas partes/segmentar
+- Análise
+- Síntese - processo de reconstrução de maneira que faça sentido
+
+A ordem de execução de tarefas menores pode ser:
+- Sequencial 
+- Paralelo
+
+Como decompor?
+* Focar nos componentes
+Identificar -> Agregar os dados -> Funcionalidade 
+
+Exemplos do cotidiano: cozinhar, funcionamento de uma bike
+
+Exemplo de Decomposição, criar um app, precisa definir:
+- Finalidade
+- Interface
+- Pré-requisitos
+
+Aula 2 | Etapa 2: Padrões
+2º Pilar - Reconhecimento de Padrões - Pode ser por similaridades e diferenças entre os problemas
+- Modelo base
+- Estrutura invariante
+- Repetição
+
+Ex: Fotos de redes soiciais, compressão de dados
+
+Por que determinar padrões?
+Generalizar, com objetivo de obter resolução para problemas diferentes.
+
+Como o computador reconhece padrões?
+- Representação de atributos: Dar dados para o computador para que ele entenda o que é aquele objeto
+- Aprendizado - conceito associado ao objeto -"ele tem que entender o que significa ser uma fruta"
+- Armazenar os dados: Os dados de atributos e o contexto que esta inserido o objeto sserão armazenados
+- Regras de decisão
+
+Aplicações dos Padrões
+- Classificação de dados
+- Reconhecimento de imagem
+- Reconhecimento de fala
+- Análise de cenas
+- Classificação de documentos
+
+Aula 2 | Etapa 3: Abstração
+3º Pilar - Abstração
+Abstrair significa observar diferentes elementos e avaliar as características de maneira individual.
+Abstração é o processo de isolamento de um objeto da realidade
+
+Generalizar - Tornar-se geral, mais amplo, extensão
+Generalização, na lógica, é a operação intelectual que consiste em reunir numa classe geral, um conjunto de seres ou fenômenos similares.
+
+Como classificar esses dados?
+- Características
+- Pontos essenciais
+- Generalizar x detalhar -> os detalhes devem ser deixados de lado e deve-se focar em generalizar o objeto (ex. mesa)
+
+Exemplos de algoritimos com conceitos baseados em abstrações
+- Merge sort
+- Clustering
+- Busca binária
+
+Linguagem de programação é abstração pura
+
+Aula 2 | Etapa 4: Algoritmos
+
+4º Pilar - Design de Algoritmos
+Automatizar, definir passo a passo de um problema
+
+As intruções vão dizer o que precisa ser feito e qual é a ordem de execução.
+
+- Desenvolvimento do Programa
+  > Análise: Estudo e definição dos dados de entrada e saída
+  > Algoritmo: Descreve o problema por meio de ferramentas narrativas, fluxograma ou pseudocódigo.
+  > Codificação: O algoritimo é codificado de acordo com a linguegem de programação escolhida.
+
+- Como cosntruir um algoritmo?
+  > Compreenção do problema
+  > Definição dos dados de entrada
+  > Definir o processamento
+  > Definir dados de saída
+  > Utilizar um método de construção
+  > Teste e diagnóstico
+
+- Métodos que podemos utilizar para construir um algoritmo
+  > Narrativa
+  > Fluxograma
+  > Pseudocódigo
+
+Input -> Operator -> Output
+
+Aula 3 Estudos de caso
+
+Referências:
+Algoritmos - MIT
+www.youtube.com/watch?v=HtSuA80QTyo&list=PLUI4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
